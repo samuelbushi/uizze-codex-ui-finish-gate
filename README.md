@@ -78,7 +78,9 @@ Evidence:
 
 This starter is useful on its own. If you want Codex to work from real interface references and a documented contract → evidence → manifest validation → audit → critique workflow, [connect UIZZE Agent Connector](https://uizze.com/?view=agent&utm_source=github&utm_medium=starter_repo&utm_campaign=github_codex_ui_finish_gate_v1&utm_content=readme_agent_connector).
 
-Disclosure: this starter is prepared by UIZZE and published by Samuel Bushi, a UIZZE founder/operator. The optional link above is a UIZZE product link with campaign attribution. Existing paid UIZZE users are excluded from acquisition counts and direct marketing.
+For a separate review of the finished interface, run the free [UIZZE UI Specificity Check](https://uizze.com/tools/ui-specificity-check?utm_source=github&utm_medium=starter_repo&utm_campaign=github_codex_ui_finish_gate_v1&utm_content=readme_specificity_check). It checks the implementation evidence for missing states and generic UI patterns, then produces a local report without uploading the project.
+
+Disclosure: this starter is prepared by UIZZE and published by Samuel Bushi, a UIZZE founder/operator. The optional links above are UIZZE product links with campaign attribution. Existing paid UIZZE users are excluded from acquisition counts and direct marketing.
 
 ## Repository topics
 
