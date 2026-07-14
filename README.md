@@ -16,7 +16,7 @@ It does **not** claim that a prompt, model, or product will improve your design.
 
 ```bash
 git clone https://github.com/samuelbushi/uizze-codex-ui-finish-gate.git
-cd codex-ui-finish-gate
+cd uizze-codex-ui-finish-gate
 npm run verify
 npm run dev
 codex
