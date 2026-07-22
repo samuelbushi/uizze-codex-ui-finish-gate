@@ -1,5 +1,7 @@
 # STOP UI SLOP: Codex Finish Gate
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/samuelbushi/uizze-codex-ui-finish-gate/badge)](https://scorecard.dev/viewer/?uri=github.com/samuelbushi/uizze-codex-ui-finish-gate)
+
 **A working UI is not finished if it only survives the happy path.**
 
 This dependency-free challenge forces Codex past the generic first draft and gives “finished” a concrete, testable meaning. It supplies:
